@@ -6,7 +6,6 @@
 
 ## Install zyconf 
 
-### Compile zyconf in Linux
 ```
 $/path/to/phpize
 $./configure --with-php-config=/path/to/php-config/
