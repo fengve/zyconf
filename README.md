@@ -1,7 +1,7 @@
 # zyconf
 持久化配置
 
-
+php version >= 5.3   ， Non Thread Safe
 
 
 ###  Install zyconf 
